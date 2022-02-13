@@ -1,0 +1,25 @@
+{
+  "name": "server_and_react_self_improvement_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "server": "nodemon server.js",
+    "self-improvment-project": "npm run start --prefix self-improvment-project",
+    "dev": "concurrently \"npm run server\" \"npm run self-improvment-project\" "
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "^7.0.0",
+    "crypto": "^1.0.1",
+    "crypto-browserify": "^3.12.0",
+    "express": "^4.17.2",
+    "mongodb": "^4.3.1",
+    "nodemon": "^2.0.15",
+    "react-player": "^2.9.0"
+  }
+}

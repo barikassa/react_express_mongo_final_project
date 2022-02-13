@@ -1,0 +1,32 @@
+POST http://localhost:5000/Contact
+
+###
+
+GET  http://localhost:5000/bookList
+
+###
+GET  http://localhost:5000/articleList
+
+###
+GET  http://localhost:5000/mindVideo
+
+
+###
+GET  http://localhost:5000/bodyTraining
+
+###
+GET  http://localhost:5000/diet
+
+###
+
+
+GET   http://localhost:5000/forum
+
+###
+POST  http://localhost:5000/forum
+
+###
+DELETE   http://localhost:5000/forum/6200ff265064ae19c867c525
+ 
+###
+PATCH    http://localhost:5000/forum/620407d9085bab06d2a7a9de

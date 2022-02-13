@@ -1,0 +1,19 @@
+.divHandler {
+    height: 50vh;
+    width: 50%;
+    /* display: flex; */
+    /* flex-wrap: wrap; */
+    justify-content:space-evenly;
+
+}
+
+.divHandlerBook {
+    height: 50vh;
+    width: 50%;
+
+}
+
+.imgHandler {
+    height: 100px;
+    width: 100px;
+}

@@ -1,0 +1,18 @@
+.forumHandler {
+    background-color: #7FDBFF;
+}
+
+.clicks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+}
+
+.comments {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.commentsP {
+    padding-left: 100px;
+}
